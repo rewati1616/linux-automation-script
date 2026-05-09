@@ -1,5 +1,5 @@
 # Linux Automation Script
-
+ 
 A simple and efficient Linux automation project built using Bash scripting to automate repetitive system tasks and improve workflow efficiency. This project helps users perform common Linux operations quickly through command-line scripts. 
 
 ---
