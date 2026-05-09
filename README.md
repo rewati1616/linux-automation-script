@@ -6,7 +6,7 @@ A simple and efficient Linux automation project built using Bash scripting to au
 
 ## 🚀 Features
 
-- Automates routine Linux tasks
+- Automates routine Linux tasks 
 - Easy-to-use Bash scripts
 - Beginner-friendly project structure
 - Improves productivity and saves time
